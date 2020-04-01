@@ -1,14 +1,16 @@
 Projects:
 
-ED_Conversion 
+ED_Conversion - CST customer conversion program analysis
 
-ED_Migration
+ED_Migration - Zamro migration program analysis 
 
-ED_Organisations
+ED_Organisations - Organisation name extraction
 
-ED_Webshop
+ED_Webshop - Webshop year-on-year analysis
 
-ED_Customers
+ED_Customers - Customer string extraction
 
-ED_Search
+ED_Search - Search engine corpora analysis
+
+
 
