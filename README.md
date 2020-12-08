@@ -10,7 +10,7 @@ ED_Conversion - CST customer conversion program analysis at ERIKS Digital (uploa
 
 ED_Migration - Zamro migration program analysis at ERIKS Digital (uploaded)
 
-ED_Organisations - Organisation name extraction at ERIKS Digital (uploaded
+ED_Organisations - Organisation name extraction at ERIKS Digital (uploaded)
 
 ED_Webshop - Webshop year-on-year analysis at ERIKS Digital 
 
